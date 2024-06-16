@@ -1,5 +1,6 @@
 ## Lab1
 ## Компоненти програмної інженерії. Частина 3. Архітектура програмного забезпечення
+
 ### Склад команди ***"latebloomers":***
 
 ### - Bilyi Bohdan: [Github](https://github.com/TarnishedGhost), [Telegram](https://t.me/fadedphoenix);
